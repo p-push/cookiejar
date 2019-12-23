@@ -1,3 +1,4 @@
+require 'byebug'
 require 'time'
 require 'uri'
 require 'cookiejar/cookie_validation'
